@@ -13,6 +13,8 @@ import java.io.IOException;
 
 /**
  * Created by bioyang on 15/8/18.
+ *
+ * http://opennlp.sourceforge.net/models-1.5/
  */
 public class POSTaggerTest extends TamingTextTestJ4
 {
