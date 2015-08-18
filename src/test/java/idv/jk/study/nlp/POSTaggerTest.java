@@ -14,7 +14,7 @@ import java.io.IOException;
 /**
  * Created by bioyang on 15/8/18.
  */
-public class POSTaggerMain extends TamingTextTestJ4
+public class POSTaggerTest extends TamingTextTestJ4
 {
     @Test
     public void testPOS() throws IOException
